@@ -1,3 +1,6 @@
 Hello World of the branch devel.
 I wrote a second line 
 and a third line
+
+Now I introduce some new lines
+
